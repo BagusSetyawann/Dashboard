@@ -1,0 +1,13 @@
+name: Dashboard
+title: Dashboard
+username:
+account: pmkpandaan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5512973
+bundleId: 5508843
+url: https://pmkpandaan.shinyapps.io/Dashboard/
+when: 1643175634.01016
+lastSyncTime: 1643175634.01016
+asMultiple: FALSE
+asStatic: FALSE
